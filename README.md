@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 Hi my name is Ashley! 
+
+- I recently graduated from Cal Poly SLO where I studied Marketing & Information Systems
+- I am currently working part-time at an art studio and run a jewelry business!
+- I love being outdoors, traveling and living near the beach
 <!--
 **yellowlab44/yellowlab44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
